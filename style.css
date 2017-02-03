@@ -57,3 +57,11 @@ img[src="https://i.imgur.com/76MJ9Wd.png"] {
   max-width: 15%;
 
 }
+
+a {
+  color: purple;
+}
+
+a:hover {
+  color:orange;
+}
