@@ -1,0 +1,59 @@
+
+
+
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+
+}
+
+h1, .tagline {
+  text-align: center;
+
+}
+
+h2 {
+  font-size: 35px;
+    border-bottom: 20px solid;
+    border-color: #E4A43A;
+    border-width: medium;
+    padding-bottom:20px;
+
+
+}
+
+header {
+  background: white;
+  width: 170%;
+
+
+
+}
+
+span {
+  padding-left: 90px;
+  padding-bottom: 50px;
+  font-size: 20px;
+
+}
+
+section {
+  background: white;
+  width: 150%;
+  padding-right: 20%;
+
+
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background: #f0f0f5;
+
+}
+
+
+
+img[src="https://i.imgur.com/76MJ9Wd.png"] {
+  max-width: 15%;
+
+}
