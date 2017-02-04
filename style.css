@@ -9,29 +9,36 @@
 
 h1, .tagline {
   text-align: center;
+  padding-top: 20px;
+  padding-left:170px;
 
 }
 
 h2 {
   font-size: 35px;
     border-bottom: 20px solid;
-    border-color: #D29D65;
+    border-color: #CE9357;
     border-width: medium;
-    padding-bottom:20px;
+    padding-bottom: 21px;
+
+
 
 
 }
 
 header {
   background: white;
-  width: 170%;
+  width: 500px;
+  height: 130px;
+  padding-right:100px;
+
 
 
 
 }
 
 span {
-  padding-left: 90px;
+  padding-left: 80px;
   padding-bottom: 50px;
   font-size: 20px;
 
@@ -39,8 +46,9 @@ span {
 
 section {
   background: white;
-  width: 150%;
+  width: 500px;
   padding-right: 20%;
+
 
 
 }
@@ -54,9 +62,11 @@ body {
 
 
 img[src="https://i.imgur.com/76MJ9Wd.png"] {
-  max-width: 15%;
-  padding-bottom:20px;
-  padding-right: 20px;
+  max-width: 54px;
+  max-height: 54px;
+  padding-bottom:12px;
+  padding-right: 14px;
+
 
 }
 
