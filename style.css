@@ -29,6 +29,7 @@ header, section {
   padding-left: 30px;
   padding-right:30px;
   padding-top:2px;
+  margin-bottom: 20px;
 
 }
 
@@ -51,7 +52,7 @@ a:hover {
 
 
 h2 {
-  font-size: 35px;
+  font-size: 25px;
   border-bottom: 20px solid;
   border-color: #CE9357;
   border-width: medium;
@@ -62,6 +63,6 @@ h2 {
 span {
   padding-left: 32px;
   padding-bottom: 50px;
-  font-size: 12px;
+  font-size: 15px;
 
 }
